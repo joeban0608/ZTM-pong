@@ -1,2 +1,2 @@
 # ZTM-pong
-This is pratice from ZTM classes: javascript-web-projects-to-build-your-portfolio-resume-第二十二章
+This is pratice from ZTM classes: [javascript-web-projects-to-build-your-portfolio-resume-第二十二章](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/?couponCode=ACCAGE0923)
